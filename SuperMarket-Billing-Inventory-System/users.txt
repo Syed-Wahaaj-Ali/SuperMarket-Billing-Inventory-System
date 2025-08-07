@@ -1,0 +1,2 @@
+admin,admin123,Admin
+cashier1,cash123,Cashier
