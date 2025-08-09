@@ -1,14 +1,8 @@
-1|Basmati Rice|360|198
-2|Noraml Rice|290|197
-3|Eva Oil|450|58
-5|Habib Ghee|590|90
-6|Everyday Milk|1800|55
-7|Nido Milk|1500|47
-8|Brite 1Kg|550|80
-9|Brite 1/2Kg|250|54
-10|Colgate|360|66
-11|Sunsilk Shampoo|300|80
-12|Dove Shampoo|320|65
-13|Palmolive Soap|155|80
-14|Lux Soap|155|78
-15|Choco|50|5
+1|Basmati Rice|390|170
+2|Cooking Oil|450|45
+3|Habib Ghee|590|85
+4|Everyday Milk|1800|54
+5|Brite 1Kg|550|79
+6|Colgate|360|65
+7|Sunsilk|300|64
+8|Palmolive Soap|155|66
