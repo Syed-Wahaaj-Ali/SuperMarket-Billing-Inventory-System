@@ -300,7 +300,8 @@ class Billing {
 			int count = 0;
 			string id;
 			char choice;
-
+            
+            clearScreen();
 			inv.viewProducts();
 
 			do {
@@ -338,7 +339,7 @@ class Billing {
 				cout << "Cart is empty. No bill generated.\n";
 				return;
 			}
-
+			clearScreen();
 			double total = 0;
 			system("mkdir bills >nul 2>&1");
 
